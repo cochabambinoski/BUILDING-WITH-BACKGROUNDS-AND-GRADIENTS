@@ -9,7 +9,7 @@ This assignment consists of making a clone of a New York Times article page. By 
 Embedding images
 Working with forms (buttons in this case)
 Floats and positioning
-The box model
+The box model.
 
 ## Project specific
 
